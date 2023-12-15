@@ -1,0 +1,158 @@
+not_found:
+  message: Serás redirigido a la página principal en 3 segundos. Si no es redirigido, regrese a la
+  main_page: página principal
+main:
+  contact_note: ""
+  footer_text: ""
+  # footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  #   # Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+  #   # Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  #   # Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  # more_info: >
+  #   <p>555 seu telefone do trabalho</p>
+  #   <p>123 seu endereço</p>
+  #   <p>Sua cidade, estado 12345</p>
+  subtitle: Ayudando empresas a crear soluciones basadas en la nube | Innovador y entusiasta de la investigación | Autor
+titles:
+  about: acerca
+  blog: blog
+  cv: cv
+  latest_posts: últimos blogs
+  news: noticias
+  profiles: miembros
+  projects: proyetos
+  publications: publicaciones
+  repositories: repositórios
+  selected_publications: publicaciones selecionadas
+  teaching: docencia
+  submenus: submenus
+  unk: página no encontrada
+descriptions:
+  about: La página personal de Luis Sequeira.
+  archive-category: un archivo de publicaciones en esta categoría
+  archive-tag: un archivo de publicaciones en esta etiqueta
+  archive-year: un archivo de publicaniones de este año
+  blog: um tema simples para acadêmicos
+  cv: ""
+  profiles: Membros do grupo de pesquisa ou laboratório.
+  projects: en construcción
+  publications: publicaciones por categorías en orden cronológico inverso.
+  repositories: Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.
+  teaching: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
+  unk: Parece que ocorreu um erro. Não existe nada aqui.
+blog:
+  description: por favor vuelva pronto
+  name: en construcción # blog_name will be displayed in your blog page
+  nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+  related_posts:
+    description: "Aquí hay algunos artículos más que tal vez le guste leer:"
+    title: ¿Disfrutas leyendo este artículo?
+months:
+  long:
+    january: Enereo
+    february: Febrero
+    march: Marzo
+    april: Abril
+    may: Mayo
+    june: Junio
+    july: Julio
+    august: Agosto
+    september: Septiembre
+    october: Octubre
+    november: Noviembre
+    december: Diciembre
+  short:
+    january: Ene
+    february: Feb
+    march: Mar
+    april: Abr
+    may: May
+    june: Jun
+    july: Jul
+    august: Ago
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Dic
+news:
+  empty: No hay noticias por el momento...
+  titles:
+    news1: Um anúncio simples em uma linha.
+    news2: Um anúncio longo com detalhes
+    news3: "Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:"
+pagination:
+  newer: Recientes
+  older: Antiguos
+  page: página
+projects:
+  titles:
+    project1: Projeto 1
+    project2: Projeto 2
+    project3: Projeto 3
+    project4: Projeto 4
+    project5: Projeto 5
+    project6: Projeto 6
+  descriptions:
+    project1: um projeto com imagem de fundo
+    project2: um projeto com imagem de fundo e comentários do giscus
+    project3: um projeto que redireciona pra outro website
+    project4: outro sem imagem
+    project5: um projeto com imagem de fundo
+    project6: um projeto sem imagem
+  categories:
+    fun: personal
+    work: trabajo
+repositories:
+  users: Usuários do GitHub
+  repos: Repositórios do GitHub
+cv:
+  address: Dirección
+  area: Área
+  awarder: Premiado por
+  awards: Premios & Logros
+  basics: Información general
+  certificates: Certificados
+  city: Ciudad
+  countryCode: Código do pais
+  courses: Cursos
+  date: Fecha
+  education: Educación
+  email: Email
+  endDate: Fecha final
+  fluency: Fluidez
+  highlights: Destacado
+  image: Imagen
+  institution: Institución
+  interests: Intereses
+  issuer: Emisor
+  keywords: Palabras chave
+  label: Etiqueta
+  language: Idioma
+  languages: Idiomas
+  level: Nivel
+  location: Localización
+  name: Nombre
+  network: Red
+  organization: Organización
+  phone: Telefono
+  position: Posición
+  postalCode: Código postal
+  profiles: Perfiles
+  projects: Projetos
+  publications: Publicaciones
+  publisher: Editor
+  reference: Referencia
+  references: Referencias
+  region: Region
+  releaseDate: Fecha de lanzamiento
+  score: Pontuación
+  skills: Habilidades
+  startDate: Fecha de inicio
+  studyType: Tipo de estudio
+  summary: Resumen
+  table_of_contents: Tabla de contenidos
+  title: Título
+  url: Url
+  username: Usuario
+  volunteer: Voluntario
+  work: Trabajo
