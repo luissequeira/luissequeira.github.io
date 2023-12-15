@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Luis Sequeira",
+    "label": "Helping companies to build cloud-based solutions | Innovator and research enthusiast | Author",
+    "image": "luissequeira.png",
+    "email": "",
+    "phone": "",
+    "summary": "Versatile and forward-thinking Cloud Professional with a strong background in designing and optimizing scalable cloud solutions. Leading a great team to deliver cutting-edge infrastructure. Combining technical excellence with a passion for research and innovation. Successfully spearheaded projects at the intersection of technology and creativity. Driving strategic initiatives, fostering collaboration, and ensuring the success of cloud-based projects within a dynamic and growth-focused organization.",
+    "url": "",
+    "location": {
+      "region": "England",
+      "city": "London",
+      "countryCode": "UK",
+      "address": "",
+      "postalCode": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Quantum Motion Technologies",
+      "position": "Lead Cloud Engineer",
+      "url": "https://quantummotion.tech/",
+      "startDate": "2023-03-00",
+      "endDate": "Present",
+      "summary": "Leading the Cloud Engineering Team.",
+      "highlights": [
+        "Driving the implementation and automation of on-prem/cloud based solutions, such as a HPC cluster, a Machine Learning platform based on Sagemaker, serverless applications and storage solutions.",
+        "Engaging with technology vendors and suppliers to deliver optimal results."
+      ]
+    },
+    {
+      "name": "Quantum Motion Technologies",
+      "position": "Senior Software Engineer",
+      "url": "https://quantummotion.tech/",
+      "startDate": "2021-03-00",
+      "endDate": "2023-03-00",
+      "summary": "Driving cloud adoption and expansion.",
+      "highlights": [
+        "Focusing on applying best practices, automation, Infrastructure as Code, and using CI/CD tools and methodologies while also collaborating with other teams to reach goals.",
+        "Building cloud-based serverless solutions to provide data ingestion coming from quantum computing experimentation."
+      ]
+    },
+    {
+      "name": "Sabbatical",
+      "position": "Author",
+      "url": "https://www.luissequeira.com",
+      "startDate": "2020-05-00",
+      "endDate": "2021-02-00",
+      "summary": "A long-term family trip was planned but a global pandemic ruined it. So, think fast, redo the planning and adapt to the change. Successfully published a book, journal and conference papers. Mentoring and co-supervising a PhD student."
+    },
+    {
+      "name": "Cloudreach",
+      "position": "Cloud Engineer",
+      "url": "https://cloudreach.com/",
+      "startDate": "2019-03-00",
+      "endDate": "2020-05-00",
+      "summary": "Helping companies to reach their goals using AWS services (e.g., Fargate, EC2, ECR, ELB, SSM, SNS, S3, IAM, Lambda, AWS Backup, API Gateway, Cloudwatch) and IaC tooling such as Cloudformation and Terraform.",
+      "highlights": [
+        "Engagement with stakeholders to align goals and best practices focused on the project success, following AWS Best Practices and documentation.",
+        "Providing cloud-based Proof-of-Concept (PoC) for clients along with detailed technical documentation describing both high and low level architecture.",
+        "Solving technical challenges and creating serverless applications using a combination of AWS API Gateway, Lambda functions VPC End-Points and Python.",
+        "Experimenting with AWS Greengrass and IoT systems to provide Edge Cloud solutions based on Raspberry Pi, Machine Learning and Lambda functions."
+      ]
+    },
+    {
+      "name": "King's College London",
+      "position": "Research Associate",
+      "url": "https://kcl.ac.uk/",
+      "startDate": "2017-05-00",
+      "endDate": "2019-02-00",
+      "summary": "Leading and working in different R&D projects with world leading partners across Europe",
+      "highlights": [
+        "Leading an internal team and designing a Lane Merge Coordination (connected vehicles/autonomous driving) based on a microservice architecture using Machine Learning Clasifiers and Reenforcement Learning (https://5gcar.eu).",
+        "Architecture design of a distributed Edge Cloud based on Kubernetes, SDN to support robotics and augmented reality applications, using orchestration and monitoring tools such as Cloudify, Grafana and Prometheus.",
+        "Working with stakeholders in architectural design and analysis of cloud infrastructure to provide Multi-Cloud Orchestration in a 5G Testbed using OSM from ETSI MANO framework and OpenStack (https://www.initiate.ac.uk).",
+        "Involvement with industrial stakeholders and partners for architectural design facing presentation of results and analysis.",
+        "Member of a team who deployed UK first 5G network. The main role was to orchestrate network services across different clouds.",
+        "R&D activities in end-to-end low latency communications based on edge cloud, software defined networking and cloud orchestration."
+      ]
+    },
+    {
+      "position": "Earlier positions",
+      "startDate": "2002-05-00",
+      "endDate": "2019-02-00",
+      "highlights": [
+        "2015-2017 Research Associate, University of Zaragoza, Spain",
+        "2010-2015 Predoctoral Researcher, University of Zaragoza, Spain",
+        "2002-2010 Department Coordinator, Ministry of Public Education of Costa Rica, Costa Rica",
+        "2003-2010 Lecturer, Universidad Latina de Costa Rica, Costa Rica"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Zaragoza, Zaragoza, Spain",
+      "url": "https://www.unizar.es/",
+      "area": "Analysis and modelling of multimedia traffic and access networks. Quality of service (QoS) and Quality of Experience (QoE)",
+      "studyType": "Doctor of Philosophy (Ph.D.)",
+      "startDate": "2011-09-01",
+      "endDate": "2015-01-01",
+      "score": "Cum Laude",
+      "courses": []
+    },
+    {
+      "institution": "University of Zaragoza, Zaragoza, Spain",
+      "url": "https://www.unizar.es/",
+      "area": "Telematics, Quality of service (QoS) and Quality of Experience (QoE)",
+      "studyType": "Master's Degree, Telecommunication Engineering",
+      "startDate": "2010-09-01",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Costa Rica, San José, Costa Rica",
+      "url": "https://www.ucr.ac.cr/",
+      "area": "Broadband technologies and digital communications",
+      "studyType": "Master's Degree, Electrical Engineering",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University Hispanoamericana, San José, Costa Rica",
+      "url": "https://uh.ac.cr",
+      "area": "Digital systems and communications",
+      "studyType": "Bachelor's Degree, Electronics Engineering",
+      "startDate": "1998-01-01",
+      "endDate": "2002-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "5G Network Trial",
+      "url": "https://www.gov.uk/guidance/5g-testbeds-and-trials-programme",
+      "date": "2018",
+      "awarder": "Department for Digital, Culture, Media & Sport (DCMS)",
+      "summary": "The UK's first end-to-end 5G network in early 2018."
+    },
+    {
+      "title": "PhD Scholarship",
+      "date": "2010",
+      "awarder": "Fundación Carolina",
+      "summary": "Fully-founded PhD scholarship"
+    }
+  ],
+  "certificates": [
+    {
+      "issuer": "Amazon Web Services",
+      "name": "AWS Solution Architect Associate",
+      "date": "2019"
+    }
+  ],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
