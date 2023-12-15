@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://luissequeira.github.io/es/sitemap.xml
