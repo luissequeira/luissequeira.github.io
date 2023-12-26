@@ -41,8 +41,8 @@ descriptions:
   teaching: Materials for courses you taught. Replace this text with your description.
   unk: Looks like there has been a mistake. Nothing exists here.
 blog:
-  description: please come back soon
-  name: under construction # blog_name will be displayed in your blog page
+  description: things are not 100% tidy yet
+  name: I am currently migrating the blog # blog_name will be displayed in your blog page
   nav_title: blog # your blog must have a title for it to be displayed in the nav bar
   related_posts:
     description: "Here are some more articles you might like to read next:"
