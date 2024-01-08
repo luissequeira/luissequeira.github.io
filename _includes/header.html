@@ -6,6 +6,9 @@
         <div class="container">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            {%- if site.icon != "*" -%}
+              <img src=/assets/img/favicon.svg alt aria-label=logo height=18 width=18>
+            {%- endif -%}
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
