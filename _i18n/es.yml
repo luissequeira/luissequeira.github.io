@@ -41,8 +41,8 @@ descriptions:
   teaching: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
   unk: Parece que ocorreu um erro. Não existe nada aqui.
 blog:
-  description: las cosas aún no están 100% ordenadas
-  name: actualmente estoy migrando el blog # blog_name will be displayed in your blog page
+  description: ""
+  name: blog # blog_name will be displayed in your blog page
   nav_title: blog # your blog must have a title for it to be displayed in the nav bar
   related_posts:
     description: "Aquí hay algunos artículos más que tal vez le guste leer:"
