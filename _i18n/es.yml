@@ -25,6 +25,7 @@ titles:
   repositories: repositórios
   selected_publications: publicaciones selecionadas
   teaching: docencia
+  research: investigación
   submenus: submenus
   unk: página no encontrada
 descriptions:
@@ -39,6 +40,7 @@ descriptions:
   publications: publicaciones por categorías en orden cronológico inverso.
   repositories: Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.
   teaching: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
+  research: Investigación y Proyectos
   unk: Parece que ocorreu um erro. Não existe nada aqui.
 blog:
   description: ""

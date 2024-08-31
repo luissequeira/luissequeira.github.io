@@ -25,6 +25,7 @@ titles:
   repositories: repositories
   selected_publications: selected publications
   teaching: teaching
+  research: research
   submenus: submenus
   unk: page not found
 descriptions:
@@ -39,6 +40,7 @@ descriptions:
   publications: publications by categories in reverse chronological order.
   repositories: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
   teaching: Materials for courses you taught. Replace this text with your description.
+  research: Research and Projects
   unk: Looks like there has been a mistake. Nothing exists here.
 blog:
   description: ""
